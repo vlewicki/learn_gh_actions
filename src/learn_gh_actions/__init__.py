@@ -1,6 +1,6 @@
 """Module docstring
 
-Very interesting
+Very interesting...
 """
 
 def main() -> None:
